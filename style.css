@@ -886,6 +886,13 @@ html {
 }
 
 @media (max-width: 550px) {
+  .logo {
+    margin-top: 5rem;
+  }
+
+  .navbar {
+    margin-top: 6rem;
+  }
   .navbar-link {
     margin: 0 1.5rem;
   }
@@ -895,7 +902,7 @@ html {
   }
 
   .section-3-heading {
-    font-size: 8rem;
+    font-size: 10rem;
   }
 
   .macbook-info-heading {
